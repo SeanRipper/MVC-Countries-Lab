@@ -1,0 +1,15 @@
+C:\Users\Owner\Desktop\C# Bootcamp\Labs\MVC Countries Lab\MVC Countries Lab\bin\Debug\net6.0\MVC Countries Lab.exe
+C:\Users\Owner\Desktop\C# Bootcamp\Labs\MVC Countries Lab\MVC Countries Lab\bin\Debug\net6.0\MVC Countries Lab.deps.json
+C:\Users\Owner\Desktop\C# Bootcamp\Labs\MVC Countries Lab\MVC Countries Lab\bin\Debug\net6.0\MVC Countries Lab.runtimeconfig.json
+C:\Users\Owner\Desktop\C# Bootcamp\Labs\MVC Countries Lab\MVC Countries Lab\bin\Debug\net6.0\MVC Countries Lab.dll
+C:\Users\Owner\Desktop\C# Bootcamp\Labs\MVC Countries Lab\MVC Countries Lab\bin\Debug\net6.0\MVC Countries Lab.pdb
+C:\Users\Owner\Desktop\C# Bootcamp\Labs\MVC Countries Lab\MVC Countries Lab\obj\Debug\net6.0\MVC Countries Lab.csproj.AssemblyReference.cache
+C:\Users\Owner\Desktop\C# Bootcamp\Labs\MVC Countries Lab\MVC Countries Lab\obj\Debug\net6.0\MVC Countries Lab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Owner\Desktop\C# Bootcamp\Labs\MVC Countries Lab\MVC Countries Lab\obj\Debug\net6.0\MVC Countries Lab.AssemblyInfoInputs.cache
+C:\Users\Owner\Desktop\C# Bootcamp\Labs\MVC Countries Lab\MVC Countries Lab\obj\Debug\net6.0\MVC Countries Lab.AssemblyInfo.cs
+C:\Users\Owner\Desktop\C# Bootcamp\Labs\MVC Countries Lab\MVC Countries Lab\obj\Debug\net6.0\MVC Countries Lab.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Desktop\C# Bootcamp\Labs\MVC Countries Lab\MVC Countries Lab\obj\Debug\net6.0\MVC Countries Lab.dll
+C:\Users\Owner\Desktop\C# Bootcamp\Labs\MVC Countries Lab\MVC Countries Lab\obj\Debug\net6.0\refint\MVC Countries Lab.dll
+C:\Users\Owner\Desktop\C# Bootcamp\Labs\MVC Countries Lab\MVC Countries Lab\obj\Debug\net6.0\MVC Countries Lab.pdb
+C:\Users\Owner\Desktop\C# Bootcamp\Labs\MVC Countries Lab\MVC Countries Lab\obj\Debug\net6.0\MVC Countries Lab.genruntimeconfig.cache
+C:\Users\Owner\Desktop\C# Bootcamp\Labs\MVC Countries Lab\MVC Countries Lab\obj\Debug\net6.0\ref\MVC Countries Lab.dll
